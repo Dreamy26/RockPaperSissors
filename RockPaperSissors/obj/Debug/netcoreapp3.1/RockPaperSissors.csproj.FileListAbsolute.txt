@@ -1,0 +1,13 @@
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\bin\Debug\netcoreapp3.1\RockPaperSissors.exe
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\bin\Debug\netcoreapp3.1\RockPaperSissors.deps.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\bin\Debug\netcoreapp3.1\RockPaperSissors.runtimeconfig.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\bin\Debug\netcoreapp3.1\RockPaperSissors.runtimeconfig.dev.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\bin\Debug\netcoreapp3.1\RockPaperSissors.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\bin\Debug\netcoreapp3.1\RockPaperSissors.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\obj\Debug\netcoreapp3.1\RockPaperSissors.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\obj\Debug\netcoreapp3.1\RockPaperSissors.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\obj\Debug\netcoreapp3.1\RockPaperSissors.AssemblyInfo.cs
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\obj\Debug\netcoreapp3.1\RockPaperSissors.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\obj\Debug\netcoreapp3.1\RockPaperSissors.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\obj\Debug\netcoreapp3.1\RockPaperSissors.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\RockPaperSissors\RockPaperSissors\obj\Debug\netcoreapp3.1\RockPaperSissors.genruntimeconfig.cache
